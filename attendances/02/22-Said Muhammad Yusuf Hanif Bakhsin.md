@@ -1,6 +1,5 @@
 Rangkuman Pertemuan 2
 
-
 W01 Intro Android and Android Fundamentals
 
 Android is a Software Stack for mobile devices SDK provides tools and APIs to develop apps Application is Ships with core set of apps written in java.
