@@ -4,7 +4,6 @@ Ketika kita membuat aplikasi Android, kita bisa menggunakan software bernama and
 
 Didalam Android studio kita ada disediakan komponen yaitu Activity, Broadcast, Service, dan Content. Activity merupakan komponen yang bertujuan sebagai screen view jadi jika ingin masuk menu lainya activity ini sangat membantu. Broadcast yaitu merupkan komponen yang berfunsi sebagai notifikasi dari aplikasi lain sebagai contoh adalah telfon, sms OTP, dll. Selanjtunya Service yang merupakan komponen dimana bertujuan untuk melakukan proses dibelakang layar sebagai contoh play musik, GPS, penerima sms,dll. Dan yang terakhir ialah Content dimana komponen ini adalah memanajemen sebuat ada dari berbagai sumber.
 
-
 ## Didalam Android Studio juga ada proses development dan buildingnya diantaranya :
 1.	UI Design
 Proses ini bisa disebut front end atau kita menggunakan format XML Code untuk mendesain dan menampilkan sesuai kebutuhan pengguna.
